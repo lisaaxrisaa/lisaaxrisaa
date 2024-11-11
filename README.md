@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200" alt="Coding GIF">
 </div>
 <br>
-👋 Hi there! I'm Lisa Fujita<br><br>
+👋 Hi there! My name is Lisa <br><br>
 
 🌟 About Me<br>
 💻 I started my coding journey while blogging in college! After seeing how personalized some blogs were, I got curious, dove into HTML and CSS, and discovered how fun it was to control what you see on the browser.<br>
