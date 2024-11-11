@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Alt text for the GIF](https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif)
 
 👋 Hi there! I'm Lisa Fujita
@@ -21,3 +23,5 @@ Outside of coding, I enjoy reading, playing video games, and traveling. Food is 
 
 📫 Let’s Connect
 Follow me here on GitHub for updates: @lisaaxrisaa
+
+</div>
