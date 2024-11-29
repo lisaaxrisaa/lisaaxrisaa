@@ -6,8 +6,8 @@
 
 <h3>🌟 About Me:</h3>
 <ul>
-<li>I started my coding journey while blogging in college! After seeing how personalized some blogs were, I got curious, dove into HTML and CSS, and discovered how fun it was to control what you see on the browser.</li>
 <li>Fullstack web developer learning to build user-friendly websites and apps for people of all ages.</li>
+ <li>I started my coding journey while blogging in college! After seeing how personalized some blogs were, I got curious, dove into HTML and CSS, and discovered how fun it was to control what you see on the browser.</li>
 <li>Huge pet lover and proud dog mom to Emma— dreaming of combining my love of coding with my passion for animals!</li>
 </ul>
 
