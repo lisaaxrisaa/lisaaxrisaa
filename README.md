@@ -2,7 +2,10 @@
 <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200" alt="Coding GIF">
 </div>
 <br>
-<h1>👋 Hello World! My name is Lisa</h1> <br><br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&multiline=true&width=700&height=60&lines=Hello+World!+My+name+is+Lisa+👋" alt="Typing SVG" /></a>
+</div>
+<br><br>
 
 <h3>🌟 About Me:</h3>
 <ul>
