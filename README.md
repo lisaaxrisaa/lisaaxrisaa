@@ -45,6 +45,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40' height="40" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40' height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original.svg" width="40' height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40' height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" width="40' height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg" width="40' height="40"/>
+
 </div>
 
 <hr>
