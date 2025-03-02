@@ -3,7 +3,10 @@
 </div>
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&multiline=true&width=700&height=60&lines=Hello+World!+My+name+is+Lisa+👋" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&multiline=true&width=700&height=60&lines=Hello+World!+My+name+is+Lisa+&color=D8DEE9&background=2E3440&center=true" 
+  alt="Typing SVG" />
+</a>
 </div>
 <br><br>
 
@@ -31,7 +34,7 @@
   
   <li><strong>Global Adventurer</strong> – Having worked with international teams, I love how <strong>tech connects people across cultures</strong>. Whether it's through <strong>code, design, or language</strong>, every interaction is a chance to <strong>learn and collaborate</strong>.</li>
   
-  <li><strong>Music Is My Coding Fuel</strong> – My playlist is as diverse as my interests—one minute it’s <strong>smooth jazz or classical</strong>, the next it’s <strong>pop, rap, or R&B</strong>. But if I had to choose, <strong>rock is my go-to</strong>. There’s nothing like a <strong>great guitar riff</strong> to power through a coding session! 🎸</li>
+  <li><strong>Music Is My Coding Fuel</strong> – My playlist is as diverse as my interests—one minute it’s <strong>smooth jazz or classical</strong>, the next it’s <strong>pop, rap, or R&B</strong>. But if I had to choose, <strong>rock is my go-to</strong>. There’s nothing like a <strong>great guitar riff</strong> to power through a coding session! </li>
 </ul>
 
 
