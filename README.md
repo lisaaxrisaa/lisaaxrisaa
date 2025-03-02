@@ -7,21 +7,34 @@
 </div>
 <br><br>
 
-<h3>🌟 About Me:</h3>
+<h3>🌟 The Art & Logic of Code:</h3>
 <ul>
-<li>Fullstack web developer learning to build user-friendly websites and apps for people of all ages.</li>
- <li>I started my coding journey while blogging in college! After seeing how personalized some blogs were, I got curious, dove into HTML and CSS, and discovered how fun it was to control what you see on the browser.</li>
-<li>Huge pet lover and proud dog mom to Emma— dreaming of combining my love of coding with my passion for animals!</li>
+  <li><strong>Tech & Creativity Enthusiast</strong> – My love for web development stems from my early days of blogging. Seeing how personal and visually appealing websites could be, I dived into <strong>HTML and CSS</strong>, setting the foundation for my journey into software engineering.</li>
+
+  <li><strong>Visual Storyteller</strong> – I love creating digital experiences, from <strong>frontend interfaces</strong> to <strong>illustrations and designs</strong>. My artistic side helps me build <strong>aesthetic, user-friendly applications</strong> that people enjoy using.</li>
+
+  <li><strong>From Plot Twists to Mind Shifts</strong> – I love getting lost in a <strong>good mystery or thriller</strong>—nothing beats a well-crafted plot twist! But when I’m not solving fictional mysteries, I enjoy reading <strong>books on psychology, finance, and self-improvement</strong>.</li>
+
+  <li><strong>Gaming & Problem-Solving</strong> – Video games have taught me <strong>adaptability, strategy, and persistence</strong>—skills that translate surprisingly well into software development! From <strong>RPGs</strong> to <strong>puzzle-solving games</strong>, I love exploring <strong>new mechanics and systems</strong>, much like how I enjoy building efficient and user-friendly applications.</li>  
+
+  <li><strong>Dog Mom & Pet Lover</strong> – If I’m not coding, you’ll likely find me <strong>sketching cartoons of my dog Emma</strong> or imagining ways to <strong>combine tech and pet care</strong>!</li>  
 </ul>
 
 
-<h3>🎮 Fun Facts About Me:</h3>
+<h3>🌍 The World Outside of Code:</h3>
 <ul>
-  <li>Bookworm – I love reading and diving into different worlds through books.</li>
-  <li>Gaming Enthusiast – Some of my favorite games include Hogwarts Legacy, Kingdom Hearts, and the Life is Strange series!</li>
-  <li>Traveler at Heart – I dream of exploring France, Switzerland, Spain, and many more places!</li>
-  <li>Foodie – I’m always on the hunt for the best sushi and ramen spots!</li>
+  <li><strong>Curious Explorer</strong> – My journey in <strong>psychology and linguistics</strong> deeply influences how I approach <strong>user experience and problem-solving</strong>. Every piece of technology should <strong>resonate with real people</strong>.</li>
+  
+  <li><strong>Lifelong Learner</strong> – I believe <strong>curiosity is my superpower</strong>. Whether it’s refining my problem-solving skills or exploring new concepts, I thrive on learning and continuously improving my craft.</li>
+  
+  <li><strong>Educator at Heart</strong> – Whether it's <strong>pair programming</strong> or <strong>knowledge sharing</strong>, I love helping others <strong>grow and succeed in tech</strong>.</li>
+  
+  <li><strong>Global Adventurer</strong> – Having worked with international teams, I love how <strong>tech connects people across cultures</strong>. Whether it's through <strong>code, design, or language</strong>, every interaction is a chance to <strong>learn and collaborate</strong>.</li>
+  
+  <li><strong>Music Is My Coding Fuel</strong> – My playlist is as diverse as my interests—one minute it’s <strong>smooth jazz or classical</strong>, the next it’s <strong>pop, rap, or R&B</strong>. But if I had to choose, <strong>rock is my go-to</strong>. There’s nothing like a <strong>great guitar riff</strong> to power through a coding session! 🎸</li>
 </ul>
+
+
 
 <h3>💡 Favorite Quote:</h3>
 <blockquote>
