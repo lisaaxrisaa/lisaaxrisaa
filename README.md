@@ -17,10 +17,10 @@
 
 <h3>🎮 Fun Facts About Me:</h3>
 <ul>
-  <li>📖 Bookworm – I love reading and diving into different worlds through books.</li>
-  <li>🎮 Gaming Enthusiast – Some of my favorite games include Hogwarts Legacy, Kingdom Hearts, and the Life is Strange series!</li>
-  <li>🌍 Traveler at Heart – I dream of exploring France, Switzerland, Spain, and many more places!</li>
-  <li>🍣 Foodie – I’m always on the hunt for the best sushi and ramen spots!</li>
+  <li>Bookworm – I love reading and diving into different worlds through books.</li>
+  <li>Gaming Enthusiast – Some of my favorite games include Hogwarts Legacy, Kingdom Hearts, and the Life is Strange series!</li>
+  <li>Traveler at Heart – I dream of exploring France, Switzerland, Spain, and many more places!</li>
+  <li>Foodie – I’m always on the hunt for the best sushi and ramen spots!</li>
 </ul>
 
 <h3>💡 Favorite Quote:</h3>
@@ -32,16 +32,16 @@
 
 <h3>💻 Currently Working On:</h3>
 <ul>
-  <li>🔹 Learning more about backend development with Express & Prisma</li>
-  <li>🔹 Improving my Redux Toolkit & RTK Query skills</li>
-  <li>🔹 Building new open-source projects</li>
+  <li>Learning more about backend development with Express & Prisma</li>
+  <li>Improving my Redux Toolkit & RTK Query skills</li>
+  <li>Building new open-source projects</li>
 </ul>
 
 <h3>📫 Let’s Connect:</h3>
 <ul>
-  <li>🌍 <a href="https://www.linkedin.com/in/lisa-fujita/">LinkedIn</a></li>
-  <li>📧 Email: lisafujita90@gmail.com</li>
-  <li>⭐ Follow me here on GitHub: @lisaaxrisaa</li>
+  <li><a href="https://www.linkedin.com/in/lisa-fujita/">LinkedIn</a></li>
+  <li>Email: lisafujita90@gmail.com</li>
+  <li>Follow me here on GitHub: @lisaaxrisaa</li>
 </ul>
 
 
