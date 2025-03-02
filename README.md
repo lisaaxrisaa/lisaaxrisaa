@@ -67,9 +67,13 @@
 <hr>
 
 <div align="center">
-  <h3>📊 My Stats:</h3>
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lisaaxrisaa&theme=ads-juicy-fresh" alt="GitHub Streak" /></a>
+ <div align="center">
+  <h3>📊 My GitHub Stats:</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lisaaxrisaa&theme=nord" alt="GitHub Streak" />
+  </a>
 </div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer">
