@@ -1,8 +1,4 @@
 <div align="center">
-<img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200" alt="Coding GIF">
-</div>
-<br>
-<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&multiline=true&width=700&height=60&lines=Hello+World!+My+name+is+Lisa+&color=D8DEE9&background=2E3440&center=true" 
   alt="Typing SVG" />
@@ -37,7 +33,7 @@
   <li><strong>Music Is My Coding Fuel</strong> – My playlist is as diverse as my interests—one minute it’s <strong>smooth jazz or classical</strong>, the next it’s <strong>pop, rap, or R&B</strong>. But if I had to choose, <strong>rock is my go-to</strong>. There’s nothing like a <strong>great guitar riff</strong> to power through a coding session! </li>
 </ul>
 
-
+<hr>
 
 <h3>💡 Favorite Quote:</h3>
 <blockquote>
@@ -60,7 +56,7 @@
   <li>Follow me here on GitHub: @lisaaxrisaa</li>
 </ul>
 
-
+<hr>
 
 
 <div>
