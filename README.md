@@ -1,11 +1,12 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&multiline=true&width=950&height=60&lines=Hello+World!+My+name+is+Lisa+Fujita+&color=D8DEE9&background=2E3440&center=true" 
-  alt="Typing SVG" />
-</a>
-<p align="center"><em>(It's pronounced <strong>Foo-jee-tah</strong>)</em></p>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&multiline=true&width=950&height=60&lines=Hello+World!+My+name+is+Lisa+Fujita+&color=D8DEE9&background=2E3440&center=true" 
+    alt="Typing SVG" />
+  </a>
+  <br>
+  <p><em>(It's pronounced <strong>Foo-jee-tuh</strong>)</em></p>
 </div>
+
 <br><br>
 
 <h3>🌟 The Art & Logic of Code:</h3>
@@ -46,7 +47,7 @@
 
 <h3>💻 Currently Working On:</h3>
 <ul>
-  <li>Learning more about backend development with Express & Prisma</li>
+  <li>Deepening my knowledge of backend development with Express & Prisma</li>
   <li>Improving my Redux Toolkit & RTK Query skills</li>
   <li>Building new open-source projects</li>
 </ul>
@@ -62,19 +63,22 @@
 
 
 <div>
-  <h3>🚀 Tools and Languages:</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40' height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40' height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40' height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40' height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40' height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40' height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40' height="40" />
- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40' height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original.svg" width="40' height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40' height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" width="40' height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg" width="40' height="40"/>
+ <h3>🚀 Tools and Languages:</h3>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+</p>
+
 
 </div>
 
