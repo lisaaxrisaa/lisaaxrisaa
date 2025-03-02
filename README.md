@@ -1,8 +1,10 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&multiline=true&width=700&height=60&lines=Hello+World!+My+name+is+Lisa+&color=D8DEE9&background=2E3440&center=true" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&multiline=true&width=950&height=60&lines=Hello+World!+My+name+is+Lisa+Fujita+&color=D8DEE9&background=2E3440&center=true" 
   alt="Typing SVG" />
 </a>
+<p align="center"><em>(It's pronounced <strong>Foo-jee-tah</strong>)</em></p>
+
 </div>
 <br><br>
 
