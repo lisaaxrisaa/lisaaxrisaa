@@ -15,7 +15,7 @@
 
   <li><strong>Visual Storyteller</strong> – I love creating digital experiences, from <strong>frontend interfaces</strong> to <strong>illustrations and designs</strong>. My artistic side helps me build <strong>aesthetic, user-friendly applications</strong> that people enjoy using.</li>
 
-  <li><strong>From Plot Twists to Mind Shifts</strong> – I love getting lost in a <strong>good mystery or thriller</strong>—nothing beats a well-crafted plot twist! But when I’m not solving fictional mysteries, I enjoy reading <strong>books on psychology, finance, and self-improvement</strong>.</li>
+  <li><strong>From Plot Twists to Mind Shifts</strong> – I love getting lost in a <strong>good mystery or thriller</strong>—nothing beats a well-crafted plot twist! But when I’m not solving fictional mysteries, I love books that challenge my thinking—especially those on mindset, productivity, and personal growth.</li>
 
   <li><strong>Gaming & Problem-Solving</strong> – Video games have taught me <strong>adaptability, strategy, and persistence</strong>—skills that translate surprisingly well into software development! From <strong>RPGs</strong> to <strong>puzzle-solving games</strong>, I love exploring <strong>new mechanics and systems</strong>, much like how I enjoy building efficient and user-friendly applications.</li>  
 
