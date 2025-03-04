@@ -40,8 +40,8 @@
 
 <h3>💡 Favorite Quote:</h3>
 <blockquote>
-  "Do the best you can until you know better. Then when you know better, do better."  
-  <br>— Maya Angelou
+  "I have not failed. I’ve just found 10,000 ways that won’t work."  
+  <br>— Thomas Edison
 </blockquote>
 
 ### 🚀 Open to Work!
