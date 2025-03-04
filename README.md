@@ -13,9 +13,9 @@
 <ul>
   <li><strong>Tech & Creativity Enthusiast</strong> – My love for web development stems from my early days of blogging. Seeing how personal and visually appealing websites could be, I dived into HTML and CSS, setting the foundation for my journey into software engineering.</li>
 
-  <li><strong>Visual Storyteller</strong> – I love creating digital experiences, from <strong>frontend interfaces</strong> to illustrations and designs. My artistic side helps me build <strong>aesthetic, user-friendly applications</strong> that people enjoy using.</li>
+  <li><strong>Visual Storyteller</strong> – I love creating digital experiences, from frontend interfaces to illustrations and designs. My artistic side helps me build aesthetic, user-friendly applications that people enjoy using.</li>
 
-  <li><strong>Gaming & Problem-Solving</strong> – Video games have taught me adaptability, strategy, and persistence—skills that translate surprisingly well into software development! From RPGs to puzzle-solving games, I love exploring new mechanics and systems, much like how I enjoy building efficient and user-friendly applications.</li>  
+  <li><strong>Gaming & Problem-Solving</strong> – Video games have taught me adaptability, strategy, and persistence— skills that translate surprisingly well into software development! From RPGs to puzzle-solving games, I love exploring new mechanics and systems, much like how I enjoy building efficient and user-friendly applications.</li>  
 
   <li><strong>Dog Mom & Pet Lover</strong> – If I’m not coding, you’ll likely find me sketching cartoons of my dog Emma or imagining ways to combine tech and pet care!</li>  
 </ul>
