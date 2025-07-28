@@ -7,8 +7,6 @@
   <p><em>(It's pronounced <strong>Foo-jee-tuh</strong>)</em></p>
 </div>
 
-<br><br>
-
 <h3>🌟 The Art & Logic of Code:</h3>
 <ul>
   <li><strong>Tech & Creativity Enthusiast</strong> – My love for web development stems from my early days of blogging. Seeing how personal and visually appealing websites could be, I dived into HTML and CSS, setting the foundation for my journey into software engineering.</li>
@@ -55,9 +53,9 @@ If you're hiring or know of an opportunity that aligns with my skills, feel free
 
 <h3>💻 Currently Working On:</h3>
 <ul>
-  <li>Deepening my knowledge of backend development with Express & Prisma</li>
-  <li>Improving my Redux Toolkit & RTK Query skills</li>
-  <li>Building new open-source projects</li>
+  <li>Exploring AWS services including Bedrock, Lambda, and GitHub Actions.</li>
+  <li>Continuing backend development with Express, Prisma & PostgreSQL.</li>
+  <li>Practicing algorithms on LeetCode and expanding my Pet Health Tracker project.</li>
 </ul>
 
 ---
